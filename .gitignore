@@ -1,2 +1,4 @@
 data
-.venv
+.env
+yolov7
+weight_Yolov7
