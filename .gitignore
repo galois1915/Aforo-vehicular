@@ -1,4 +1,4 @@
 data
 .env
 yolov7
-weight_Yolov7
+yolov7_training.pt
