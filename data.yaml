@@ -1,0 +1,5 @@
+path: ../data
+train: ../data/train.txt
+val: ../data/valid.txt
+nc: 2
+names: ["Moto lineal", "Mototaxi"]

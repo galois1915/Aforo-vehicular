@@ -2,3 +2,5 @@ data
 .env
 yolov7
 yolov7_training.pt
+videos
+.venv
