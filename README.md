@@ -7,3 +7,8 @@ https://prakhargurawa.medium.com/creating-a-vehicle-detection-and-classification
 
 
 https://medium.com/@prishanga1/yolov7-training-on-custom-data-c6d8ec030e13
+
+Weights version of YOLOv7:
+* Small: https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7-tiny.pt
+* Medium: https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7.pt
+* Large: https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7-e6e.pt
