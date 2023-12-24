@@ -29,6 +29,7 @@ Files structure:
   * ...
 
 Comand to train YOLO:
+
 <code>!python train.py --batch-size 10 --data "../data/FineTuned_YOLO/data.yaml" --img 1080 1920 --weight "./yolov7-tiny.pt" --name yolov7-custom --epoch 10</code>
 
 For more see the last cells of <code>FineTunning-YOLO.ipynb</code>
