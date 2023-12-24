@@ -6,6 +6,8 @@ Weights version of YOLOv7:
 * Large: https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7-e6e.pt
 
 We use tiny model modificaing <code> nc: 2  # number of classes</code> in cfg directory
+
+Files structure:
 * data
   * FineTuned_YOLO
     * images        # from videos
