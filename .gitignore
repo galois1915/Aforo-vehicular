@@ -3,3 +3,4 @@ yolov7/*
 .env
 videos/*
 .venv
+ultralytics/*
