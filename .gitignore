@@ -1,6 +1,6 @@
-data/*
-yolov7/*
+data/FineTuned_YOLO/*
+data/videos/*
+yolov7/yolov7-e6e.pt
+yolov7/video_test.mp4
 .env
 videos/*
-.venv
-ultralytics/*
